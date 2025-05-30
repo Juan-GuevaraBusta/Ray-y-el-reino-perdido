@@ -1,0 +1,37 @@
+# ninja log v6
+3	151	7699794171890900	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-mkdir	2376cb20befb595
+3	151	7699794171890900	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-mkdir	2376cb20befb595
+21	430	7700576503694859	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-update	98d0035d374da422
+152	24192	7699794412321044	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-download	3170a9ca579f1fab
+434	697	7700576510216030	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-patch	2cb75eec0350ec80
+152	24192	7699794412321044	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-download	3170a9ca579f1fab
+697	864	7700576511904326	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-configure	443a5b2ca692fbf9
+434	697	7700576510216030	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-patch	2cb75eec0350ec80
+21	430	7700576503694859	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-update	98d0035d374da422
+697	864	7700576511904326	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-configure	443a5b2ca692fbf9
+864	1036	7700576513665077	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-build	12a88ad7c6f83b7d
+1774	2081	7700576524111004	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-done	83e230612bfee747
+864	1036	7700576513665077	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-build	12a88ad7c6f83b7d
+1036	1511	7700576518316766	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-install	9c934fb233b20ebb
+1036	1511	7700576518316766	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-install	9c934fb233b20ebb
+1512	1774	7700576521008213	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-test	15539af31dfcb377
+1512	1774	7700576521008213	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-test	15539af31dfcb377
+1774	2081	7700576524111004	CMakeFiles/nlohmann_json-populate-complete	83e230612bfee747
+1774	2081	7700576524111004	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-done	83e230612bfee747
+1774	2081	7700576524111004	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/CMakeFiles/nlohmann_json-populate-complete	83e230612bfee747
+34	546	7700577154843400	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-update	98d0035d374da422
+34	546	7700577154843400	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-update	98d0035d374da422
+547	706	7700577161406688	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-patch	2cb75eec0350ec80
+547	706	7700577161406688	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-patch	2cb75eec0350ec80
+707	859	7700577162932965	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-configure	443a5b2ca692fbf9
+707	859	7700577162932965	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-configure	443a5b2ca692fbf9
+860	1035	7700577164671793	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-build	12a88ad7c6f83b7d
+860	1035	7700577164671793	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-build	12a88ad7c6f83b7d
+1036	1197	7700577166296006	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-install	9c934fb233b20ebb
+1036	1197	7700577166296006	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-install	9c934fb233b20ebb
+1198	1341	7700577167754491	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-test	15539af31dfcb377
+1198	1341	7700577167754491	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-test	15539af31dfcb377
+1341	1537	7700577169722522	CMakeFiles/nlohmann_json-populate-complete	83e230612bfee747
+1341	1537	7700577169722522	nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-done	83e230612bfee747
+1341	1537	7700577169722522	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/CMakeFiles/nlohmann_json-populate-complete	83e230612bfee747
+1341	1537	7700577169722522	C:/Users/ADRIANA/Desktop/universidad/Ing. Sistemas/2/proyectoFinalPOO-main/cmake-build-debug/_deps/nlohmann_json-subbuild/nlohmann_json-populate-prefix/src/nlohmann_json-populate-stamp/nlohmann_json-populate-done	83e230612bfee747

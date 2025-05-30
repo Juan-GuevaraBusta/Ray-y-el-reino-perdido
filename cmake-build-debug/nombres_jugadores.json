@@ -1,0 +1,346 @@
+{
+    "jugadores": [
+        {
+            "fecha_ultimo_juego": "2025-05-26 11:30:30",
+            "nombre": "Juan",
+            "orden": 1,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 11:33:17",
+            "nombre": "Juan",
+            "orden": 2,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 11:33:35",
+            "nombre": "Juan",
+            "orden": 3,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 20:40:05",
+            "nombre": "Juan",
+            "orden": 4,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 20:43:28",
+            "nombre": "Juan2",
+            "orden": 5,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 20:48:28",
+            "nombre": "juan3",
+            "orden": 6,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 20:52:17",
+            "nombre": "isa",
+            "orden": 7,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 21:16:19",
+            "nombre": "juan",
+            "orden": 8,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 21:25:09",
+            "nombre": "Juan",
+            "orden": 9,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 21:37:57",
+            "nombre": "Juan",
+            "orden": 10,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 22:06:14",
+            "nombre": "Juan",
+            "orden": 11,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 22:14:07",
+            "nombre": "Juan",
+            "orden": 12,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 22:19:17",
+            "nombre": "Antonia",
+            "orden": 13,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 22:30:34",
+            "nombre": "Juan",
+            "orden": 14,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 22:38:51",
+            "nombre": "Natalia",
+            "orden": 15,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 22:45:24",
+            "nombre": "Juan",
+            "orden": 16,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 23:15:43",
+            "nombre": "Juan",
+            "orden": 17,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 23:17:39",
+            "nombre": "Juan",
+            "orden": 18,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 23:19:17",
+            "nombre": "juan",
+            "orden": 19,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 23:20:29",
+            "nombre": "nauj",
+            "orden": 20,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-26 23:31:04",
+            "nombre": "juan",
+            "orden": 21,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 00:02:26",
+            "nombre": "juan",
+            "orden": 22,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 00:04:43",
+            "nombre": "juan",
+            "orden": 23,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 00:16:46",
+            "nombre": "nata",
+            "orden": 24,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 00:20:39",
+            "nombre": "j",
+            "orden": 25,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 00:34:35",
+            "nombre": "tefa",
+            "orden": 26,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 00:35:34",
+            "nombre": "tefa",
+            "orden": 27,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 00:36:54",
+            "nombre": "juan",
+            "orden": 28,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 00:50:04",
+            "nombre": "juan",
+            "orden": 29,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 01:29:01",
+            "nombre": "juan",
+            "orden": 30,
+            "puntaje": 21
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 01:29:42",
+            "nombre": "hola",
+            "orden": 31,
+            "puntaje": 9
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 01:32:38",
+            "nombre": "busta",
+            "orden": 32,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 01:45:45",
+            "nombre": "juanbusta",
+            "orden": 33,
+            "puntaje": 10
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 01:50:32",
+            "nombre": "bustajuan",
+            "orden": 34,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 02:14:37",
+            "nombre": "busta",
+            "orden": 35,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 02:31:28",
+            "nombre": "BUSTAMANTE",
+            "orden": 36,
+            "puntaje": 13
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 02:33:32",
+            "nombre": "BUSTA",
+            "orden": 37,
+            "puntaje": 5
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 02:53:01",
+            "nombre": "busta",
+            "orden": 38,
+            "puntaje": 22
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 02:55:06",
+            "nombre": "bustameinz",
+            "orden": 39,
+            "puntaje": 6
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 02:57:18",
+            "nombre": "busta",
+            "orden": 40,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 03:05:10",
+            "nombre": "pruebafinal",
+            "orden": 41,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 03:09:45",
+            "nombre": "prueba2",
+            "orden": 42,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 03:15:10",
+            "nombre": "busta",
+            "orden": 43,
+            "puntaje": 11
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 03:22:40",
+            "nombre": "ya",
+            "orden": 44,
+            "puntaje": 10
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 03:25:24",
+            "nombre": "ok",
+            "orden": 45,
+            "puntaje": 5
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 08:22:07",
+            "nombre": "isa",
+            "orden": 46,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 08:40:47",
+            "nombre": "busta",
+            "orden": 47,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 08:43:05",
+            "nombre": "gil",
+            "orden": 48,
+            "puntaje": 4
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 09:02:03",
+            "nombre": "juan",
+            "orden": 49,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 09:39:53",
+            "nombre": "juan",
+            "orden": 50,
+            "puntaje": 9
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 09:43:28",
+            "nombre": "busta",
+            "orden": 51,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 09:44:37",
+            "nombre": "busta",
+            "orden": 52,
+            "puntaje": 12
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 09:57:40",
+            "nombre": "Mario",
+            "orden": 53,
+            "puntaje": 2
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 09:59:51",
+            "nombre": "juan",
+            "orden": 54,
+            "puntaje": 8
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-27 10:54:38",
+            "nombre": "Parra",
+            "orden": 55,
+            "puntaje": 7
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-29 21:43:06",
+            "nombre": "Juan",
+            "orden": 56,
+            "puntaje": 0
+        },
+        {
+            "fecha_ultimo_juego": "2025-05-29 21:46:35",
+            "nombre": "Juan",
+            "orden": 57,
+            "puntaje": 1
+        }
+    ]
+}
